@@ -1,7 +1,7 @@
 name: open_library_api
 description: Open Library API client
 version: 0.0.1
-homepage:
+repository: https://github.com/Pastajello/open_library_api
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
